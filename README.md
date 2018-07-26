@@ -5,4 +5,4 @@ I'm a computer engineering master student in Ankara University. I mostly focused
 
 ### Contact
 If you want to contact me: 
-- [My Linkedin] (https://www.linkedin.com/in/anilosmantur/)
+- [My Linkedin](https://www.linkedin.com/in/anilosmantur/)
