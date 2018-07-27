@@ -1,6 +1,6 @@
 ## Welcome to My Personal Blog
 
-I'm a Computer Engineering Master's student at Ankara University. I mostly focused on Deeplearning and Computer vision areas.
+I'm a Computer Engineering Master's student at Ankara University. I mostly focused on deep learning and Computer vision areas.
 
 
 ### Contact
